@@ -1,0 +1,18 @@
+﻿Build started 07/12/2015 14:21:33.
+Project "C:\Users\Regina\Desktop\VERSAO_FINAL\Prototipo\Prototipo\Prototipo.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Jogo.cpp
+  Jogo.cpp
+Link:
+  C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Regina\Desktop\VERSAO_FINAL\Prototipo\Debug\Prototipo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Regina\Desktop\VERSAO_FINAL\Prototipo\Debug\Prototipo.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Regina\Desktop\VERSAO_FINAL\Prototipo\Debug\Prototipo.lib" /MACHINE:X86 Debug\Baralho.obj
+  Debug\Cartas.obj
+  Debug\Jogador.obj
+  Debug\Jogo.obj
+  Debug\MonteConfidencial.obj
+  Debug\Main.obj
+  Prototipo.vcxproj -> C:\Users\Regina\Desktop\VERSAO_FINAL\Prototipo\Debug\Prototipo.exe
+Done Building Project "C:\Users\Regina\Desktop\VERSAO_FINAL\Prototipo\Prototipo\Prototipo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.78
